@@ -71,7 +71,8 @@ public class ReadFromKeyBoard {
  - 문자 하나를 키보드를 이용하여 입력
  - 문자를 여러번 받아 문자열을 만드는 방법
 
-```java InputCharacters.java
+### InputCharacters.java
+```java 
 import java.io.*;
 public class InputCharacters {
  
