@@ -5,7 +5,7 @@
 
 # 하위 문서
 
- - **Console**
+ - **[Console](https://github.com/sleepred/Snippets/Console.md)**
  - **Data Management**
  - **File**
  - **Network**
