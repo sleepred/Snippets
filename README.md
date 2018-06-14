@@ -5,11 +5,11 @@
 
 # 하위 문서
 
- - **[Console](https://github.com/sleepred/Snippets/Console.md)**
- - **Data Management**
- - **File**
- - **Network**
- - **Thread** 
+ - **[Console](./Console.md)**
+ - **[Data Management](./DataManagement.md)**
+ - **[File](./File.md)**
+ - **[Network](./Network.md)**
+ - **[Thread](./Thread.md)** 
 
 # 참고
  - Snippet 중 Utility 타입 Snippet은 Utility 클래스에 그대로 붙여넣고 메서드를 호출하여 사용합니다
