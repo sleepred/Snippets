@@ -99,7 +99,8 @@ public class InputCharacters {
 }
 ```
 
-```java ReadFromSystem1.java
+### ReadFromSystem1.java
+```java 
 import java.io.*;
 public class ReadFromSystem1 {
  
