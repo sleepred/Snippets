@@ -1,4 +1,4 @@
-package com.lgcns.exercise.sortscore;
+package com.exercise.sortscore;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
