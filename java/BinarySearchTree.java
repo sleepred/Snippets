@@ -1,3 +1,24 @@
+/*
+<1번 문항>
+
+https://www.testdome.com/Questions/Java/BinarySearchTree/5373 (40min)
+주어진 binary tree가 유효한 binary search tree(BST)인지 체크하는 function을 작성하시오.
+binary search tree는 모든 node가 아래의 조건을 만족하는 binary tree이다.
+- node의 값은 좌측 subtree의 모든 node의 값보다 크거나 같다.
+- node의 값은 우측 subtree의 모든 node의 값보다 작다.
+
+예를 들어 아래의 tree에 대해
+ . n1 (Value: 1, Left: null, Right: null)
+ . n2 (Value: 2, Left: n1, Right: n3)
+ . n3 (Value: 3, Left: null, Right: null)
+ 
+isValidBST(n2)의 return 값은 true이다.
+설명) 
+n1과 n3는 child가 존재하지 않는 유효한 binary search tree이다.
+n2의 값 2는 좌측 subtree n1의 최대값 1보다 크거나 같으며, 
+우측 subtree의 최소값 3보다 작으므로 n2는 유효한 binary search tree이다.
+**/    
+
 class Node {
     public int value;
     public Node left, right;
