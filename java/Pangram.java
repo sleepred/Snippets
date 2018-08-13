@@ -1,3 +1,9 @@
+/**
+1. Pangram
+ - 입력받은 값이 A부터 Z까지 모두 사용했는지를 체크하는 프로그램을 작성하시오
+ - 단 알파벳 대소문자는 구분하지 않습니다.
+*/
+
 package com.lgcns.exercise.mytest1;
 
 import java.util.HashMap;
