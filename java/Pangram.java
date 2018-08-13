@@ -4,7 +4,7 @@
  - 단 알파벳 대소문자는 구분하지 않습니다.
 */
 
-package com.lgcns.exercise.mytest1;
+package com.exercise.mytest1;
 
 import java.util.HashMap;
 import java.util.Map;
