@@ -1,4 +1,4 @@
-package com.lgcns.exercise.accesslog;
+package com.exercise.accesslog;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -17,8 +17,6 @@ public class AccessLogParsing {
         return images;
     }
 
-    // --------------------------------------
-    // �Ʒ� �޼ҵ忡 ������ �����Ͻÿ�.
     public void parse( String[] parseLog ) {
     	for(String log : parseLog){
     		String datas[] = log.split(" ");
