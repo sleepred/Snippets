@@ -1,4 +1,4 @@
-package com.lgcns.exercise.mytest2;
+package com.exercise.mytest2;
 
 public class AtbashRun {
 	public static void main(String args[]){
