@@ -1,4 +1,4 @@
-package com.lgcns.exercise.mytest1;
+package com.exercise.mytest1;
 
 public class PangramRun {
 	public static void main(String args[]){
