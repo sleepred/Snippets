@@ -1,4 +1,4 @@
-package com.lgcns.exercise.triplegame;
+package com.exercise.triplegame;
 
 public class TripleGameRun {
 
