@@ -1,4 +1,14 @@
-package com.lgcns.exercise.mytest2;
+/**
+2. Atbash
+ - 입력받은 값을 아래와 같이 간단하게 암호화하시오
+ - Ex) abc ==> zyx
+ - 변환규칙
+   Plain :   abcdefghijklmnopqrstuvwxyz
+   Cipher : zyxwvutsrqponmlkjihgfedcba
+ - A부터 Z에 해당하지 않는 문자는 원래문자를 리턴합니다.
+ - 대소문자는 구분하여 작성합니다.
+*/
+package com.exercise.mytest2;
 
 import java.util.HashMap;
 import java.util.Map;
