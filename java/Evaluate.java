@@ -1,4 +1,4 @@
-package com.lgcns.exercise.evaluate;
+package com.exercise.evaluate;
 
 import java.util.ArrayList;
 import java.util.List;
