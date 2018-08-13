@@ -1,4 +1,4 @@
-package com.lgcns.exercise.accesslog;
+package com.exercise.accesslog;
 
 import java.io.File;
 import java.io.IOException;
