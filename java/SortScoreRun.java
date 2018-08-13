@@ -1,4 +1,4 @@
-package com.lgcns.exercise.sortscore;
+package com.exercise.sortscore;
 
 public class SortScoreRun {
 
