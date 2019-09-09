@@ -1,9 +1,11 @@
+# Update README.md
+
 # Snippets
 
- - °£´ÜÇÏÁö¸¸ Àß »ý°¢ÀÌ ¾È³¯ ¶§ ¹Ù·Î ºÙ¿©³Ö¾î ¾µ ¼ö ÀÖ´Â ÄÚµå Á¶°¢µéÀ» ¸ðÀ¾´Ï´Ù.
- - ÀÌÇØÇÏ±â ½±°í Ä¿½ºÅÍ¸¶ÀÌÁîÇÏ±â ½¬¿î ÄÚµåµµ ÁÁ°í, ¼º´ÉÀÌ ¿ì¼öÇÑ ÄÚµåµµ ÁÁ½À´Ï´Ù. ¾î¶² »óÈ²¿¡ ¾²´Â °Ô ÁÁÀº Áö¸¸ ¾Ë±â ½¬¿ì¸é µË´Ï´Ù.
+ - ê°„ë‹¨í•˜ì§€ë§Œ ìž˜ ìƒê°ì´ ì•ˆë‚  ë•Œ ë°”ë¡œ ë¶™ì—¬ë„£ì–´ ì“¸ ìˆ˜ ìžˆëŠ” ì½”ë“œ ì¡°ê°ë“¤ì„ ëª¨ìë‹ˆë‹¤.
+ - ì´í•´í•˜ê¸° ì‰½ê³  ì»¤ìŠ¤í„°ë§ˆì´ì¦ˆí•˜ê¸° ì‰¬ìš´ ì½”ë“œë„ ì¢‹ê³ , ì„±ëŠ¥ì´ ìš°ìˆ˜í•œ ì½”ë“œë„ ì¢‹ìŠµë‹ˆë‹¤. ì–´ë–¤ ìƒí™©ì— ì“°ëŠ” ê²Œ ì¢‹ì€ ì§€ë§Œ ì•Œê¸° ì‰¬ìš°ë©´ ë©ë‹ˆë‹¤.
 
-# ÇÏÀ§ ¹®¼­
+# í•˜ìœ„ ë¬¸ì„œ
 
  - **[Console](./Console.md)**
  - **[Data Management](./DataManagement.md)**
@@ -11,5 +13,5 @@
  - **[Network](./Network.md)**
  - **[Thread](./Thread.md)** 
 
-# Âü°í
- - Snippet Áß Utility Å¸ÀÔ SnippetÀº Utility Å¬·¡½º¿¡ ±×´ë·Î ºÙ¿©³Ö°í ¸Þ¼­µå¸¦ È£ÃâÇÏ¿© »ç¿ëÇÕ´Ï´Ù
+# ì°¸ê³ 
+ - Snippet ì¤‘ Utility íƒ€ìž… Snippetì€ Utility í´ëž˜ìŠ¤ì— ê·¸ëŒ€ë¡œ ë¶™ì—¬ë„£ê³  ë©”ì„œë“œë¥¼ í˜¸ì¶œí•˜ì—¬ ì‚¬ìš©í•©ë‹ˆë‹¤
